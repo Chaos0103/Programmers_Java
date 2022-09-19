@@ -1,3 +1,6 @@
+## 2019 KAKAO BLIND RECRUITMENT
+* Lv.1 실패율: [Code](/2019/FailureRate.java)
+
 ## 2018 KAKAO BLIND RECRUITMENT
 
 * Lv.1 비밀지도: [Code](/2018/SecretMap.java)
