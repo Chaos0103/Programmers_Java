@@ -1,4 +1,11 @@
+## 2021 KAKAO BLIND RECRUITMENT
+* Lv.1 신규 아이디 추천: [Code](/2021/RecommendNewId.java)
+
 ## 2020 KAKAO BLIND RECRUITMENT
+* Lv.2 괄호 변환: [Code](/2022/ParenthesisConversion.java)
+* Lv.2 문자열 압축: [Code](/2022/StringCompression.java)
+* Lv.3 자물쇠와 열쇠: [Code](/2022/LockAndKey.java)
+* Lv.3 기둥과 보 설치: [Code](/2022/Installation.java)
 
 ## 2019 KAKAO BLIND RECRUITMENT
 * Lv.1 실패율: [Code](/2019/FailureRate.java)
