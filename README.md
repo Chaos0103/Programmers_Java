@@ -18,4 +18,7 @@
 * Lv.2 캐시: [Code](/2018/Cache.java)
 * Lv.2 뉴스 클러스터링: [Code](/2018/NewsClustering.java)
 * Lv.2 프렌즈4블록: [Code](/2018/Friends4Block.java)
+* Lv.2 압축: [Code](/2018/Compression.java)
+* Lv.2 n진수 게임: [Code](/2018/NDecimalNumberGame.java)
+* Lv.2 파일명 정렬: [Code](/2018/FileNameSort.java)
 * Lv.3 셔틀버스: [Code](/2018/ShuttleBus.java)
